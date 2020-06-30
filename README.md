@@ -2,6 +2,7 @@
 This is the work developed for the Project course at DCC-FCUP in 2020
 
 =======Getting Started=======
+
 ----Prerequisites----
 
  -You need to have the GHC compiler installed in your machine. You can download it in https://www.haskell.org/ghc/download.html.
